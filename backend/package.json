@@ -15,7 +15,9 @@
     "promise-mysql": "^5.2.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.22"
+    "nodemon": "^2.0.22",
+    "cors": "^2.8.5"
+
   },
   "description": ""
 }
